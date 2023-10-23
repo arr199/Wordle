@@ -1,0 +1,17 @@
+:root {
+  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+  color: rgba(238, 238, 238, 0.87);
+  background: linear-gradient(to right, #2d4385, #02041b); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  
+}
+
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.keyboard-key{
+  box-shadow:  0px 0px 5px 5px rgb(10, 45, 152) ;
+  
+}
